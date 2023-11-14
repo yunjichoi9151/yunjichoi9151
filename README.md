@@ -1,14 +1,10 @@
 <img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
 <br align="center">
-<br/>
-
 <div align="center">
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=32&pause=2000&color=7D6B95&random=false&width=550&lines=Hello+World!+My+name+is+Yunji+Choi%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<hr>
+<hr style="border:0px; height:1px; background: linear-gradient(to left, transparent, #904e95, transparent);">
 <!-- [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https://solved.ac/yunjichoi1999/) -->
 
@@ -42,7 +38,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <!-- <img src="https://profile-counter.glitch.me/yunjichoi9151/count.svg" /> -->
 
 <div align="center">
-<hr>
 
 # ✍🏻 My Skills ✍🏻
 
@@ -60,9 +55,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjichoi9151&theme=dracula&langs_count=10&card_width=400&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjichoi9151&theme=dracula&langs_count=10&card_width=400&layout=compact)
 
-<hr>
+<br>
 
 # 👩🏻‍💻 Projects 👩🏻‍💻
 
@@ -78,7 +73,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
   </a>
 <br>
 <br>
-<hr>
 
 # 💾 Study 💾
 
@@ -92,7 +86,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
   </a>
 <br>
 <br>
-<hr>
 
 # 📧 Contact 📧
 
@@ -111,7 +104,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
   </a>
   &nbsp
 <br>
-<h4>📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</h4>
+<p style="font-size:16px">📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=footer)
 
