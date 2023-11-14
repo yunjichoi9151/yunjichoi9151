@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=32&pause=2000&color=7D6B95&random=false&width=550&lines=Hello+World!+My+name+is+Yunji+Choi%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <hr style="border:0px; height:1px; background: linear-gradient(to left, transparent, #904e95, transparent);">
+
 <!-- [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https://solved.ac/yunjichoi1999/) -->
 
@@ -91,18 +92,16 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 <br>
 
-  <a href="https://www.instagram.com/bluemoon_cyj/" target="_blank">
+  <a href="https://www.instagram.com/bluemoon_cyj/" target="_blank" style="margin-right:4px">
     <img src="./assets/instagram.png" width="48px" alt="Instagram"/>
   </a>
-  &nbsp
-    <a href="https://discord.com/users/453453453029539841" target="_blank">
+    <a href="https://discord.com/users/453453453029539841" target="_blank" style="margin-right:4px">
     <img src="./assets/discord.png" width="48px" alt="Discord"/>
   </a>
-  &nbsp
   <a href="https://open.kakao.com/o/sCYUVmSf" target="_blank">
     <img src="./assets/kakaoTalk.png" width="48px" alt="KakaoTalk"/>
   </a>
-  &nbsp
+  
 <br>
 <p style="font-size:16px">📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</p>
 
