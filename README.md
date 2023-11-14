@@ -91,7 +91,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 # 📧 Contact 📧
 
 <br>
-
+<div align="center">
   <a href="https://www.instagram.com/bluemoon_cyj/" target="_blank" style="margin-right:4px">
     <img src="./assets/instagram.png" width="48px" alt="Instagram"/>
   </a>
@@ -104,6 +104,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
   
 <br>
 <p style="font-size:16px">📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</p>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=footer)
 
