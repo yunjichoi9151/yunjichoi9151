@@ -1,46 +1,118 @@
+<img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
+<br align="center">
+<br/>
+
 <div align="center">
 
-# My name is Choi yunji 👋
+<br>
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https://solved.ac/yunjichoi1999/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=32&pause=2000&color=7D6B95&random=false&width=550&lines=Hello+World!+My+name+is+Yunji+Choi%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<hr>
+<!-- [![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https://solved.ac/yunjichoi1999/) -->
+
 <!--![yunjichoi9151's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjichoi9151&show_icons=true&theme=dracula)-->
+
+</div>
+<h1 align="center">🎨 Front-end Developer 🎨</h1><br>
+
+<img align="right" src="./assets/study.gif" height="350px" alt="pixel city image">
+
+- 🎉 안녕하세요. <b>장인정신을 가진 개발자</b> 최윤지입니다😊 <br>
+
+- 👩🏻‍💻 저는 <b>'사용자의 입장에서 생각하고, 개발하고, 개선하자'</b>라는 마음가짐으로 개발에 임합니다.<br>
+
+- 💪🏻 서비스를 여러 번 테스트하며 사소한 오류나 불편함을 개선하기 위해 노력합니다.<br>
+
+- 😆 언제나 더 나은 방향을 모색하고, 새로운 기술에도 즐거운 마음으로 도전합니다.<br>
+
+- 🎯 높은 재사용성을 가진 컴포넌트 설계와, 클린 코드 작성을 목표로 두고 있습니다.<br>
+
+- 😍 <b>I Like</b> : Coding, Coffee, Piano, Music <br>
+
+- 👍🏻 <b>I'm good at</b> : PPT & Card News, Web Surfing <br><br>
+
+<div align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjichoi9151&count_bg=%23FF7239&title_bg=%23F74A06&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+<br>
+<!-- <img src="https://profile-counter.glitch.me/yunjichoi9151/count.svg" /> -->
+
+<div align="center">
+<hr>
 
 # ✍🏻 My Skills ✍🏻
 
-### ✨ Front-end ✨
+### ✨ Front-end & Design ✨
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-
-### 🎨 Design 🎨
-
-<!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)-->
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,css,styledcomponents,scss,tailwind,bootstrap" alt="skills logos" />
 
 ### 📚 Languages 📚
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,python" alt="skills logos" />
 
 ### 🖥 Programs 🖥
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode" alt="skills logos" />
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual_Studio_Code&logoColor=white)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjichoi9151&theme=dracula&langs_count=10&card_width=400&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+# 👩🏻‍💻 Projects 👩🏻‍💻
+
+<br>
+  <a href="https://github.com/yunjichoi9151/LILAC" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=LILAC" width="49%" alt="LILAC"/>
+  </a>
+  <a href="https://github.com/yunjichoi9151/ddoing" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=ddoing" width="49%" alt="ddoing"/>
+  </a>
+  <a href="https://github.com/yunjichoi9151/promiSpot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=promiSpot" width="49%" alt="promiSpot"/>
+  </a>
+<br>
+<br>
+<hr>
+
+# 💾 Study 💾
+
+<br>
+
+  <a href="https://github.com/yunjichoi9151/Algorithm_CS_Study" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=Algorithm_CS_Study" width="49%" alt="Algorithm_CS_Study"/>
+  </a>
+  <a href="https://github.com/yunjichoi9151/Front-end_Algorithm_Study" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=Front-end_Algorithm_Study" width="49%" alt="Front-end_Algorithm_Study"/>
+  </a>
+<br>
+<br>
+<hr>
+
+# 📧 Contact 📧
+
+<br>
+
+  <a href="https://www.instagram.com/bluemoon_cyj/" target="_blank">
+    <img src="./assets/instagram.png" width="48px" alt="Instagram"/>
+  </a>
+  &nbsp
+    <a href="https://discord.com/users/453453453029539841" target="_blank">
+    <img src="./assets/discord.png" width="48px" alt="Discord"/>
+  </a>
+  &nbsp
+  <a href="https://open.kakao.com/o/sCYUVmSf" target="_blank">
+    <img src="./assets/kakaoTalk.png" width="48px" alt="KakaoTalk"/>
+  </a>
+  &nbsp
+<br>
+<h4>📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</h4>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=footer)
 
 </div>
