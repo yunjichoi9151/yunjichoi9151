@@ -106,6 +106,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <p style="font-size:16px">📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</p>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=footer)
 
 </div>
