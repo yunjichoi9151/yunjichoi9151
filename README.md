@@ -55,9 +55,13 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode" alt="skills logos" />
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+<p align="center">
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjichoi9151&theme=dracula&langs_count=10&card_width=400&layout=compact)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunjichoi9151&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 <br>
 
