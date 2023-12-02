@@ -79,6 +79,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
   <a href="https://github.com/yunjichoi9151/promiSpot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=promiSpot" width="49%" alt="promiSpot"/>
   </a>
+  <a href="https://github.com/yunjichoi9151/White_Rabbit" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunjichoi9151&theme=dracula&repo=White_Rabbit" width="49%" alt="White_Rabbit"/>
+  </a>
 <br>
 <br>
 
