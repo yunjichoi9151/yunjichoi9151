@@ -108,9 +108,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
     <a href="https://discord.com/users/453453453029539841" target="_blank" style="margin-right:4px">
     <img src="./assets/discord.png" width="48px" alt="Discord"/>
   </a>
-  <a href="https://open.kakao.com/o/sCYUVmSf" target="_blank">
+<!--   <a href="https://open.kakao.com/o/sCYUVmSf" target="_blank">
     <img src="./assets/kakaoTalk.png" width="48px" alt="KakaoTalk"/>
-  </a>
+  </a> -->
   
 <br>
 <p style="font-size:16px">📌 If you contact me, I can provide you with a <b>Resume</b> and <b>Portfolio</b>.</p>
