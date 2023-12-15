@@ -1,8 +1,7 @@
 <br align="center">
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=header)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=200&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=32&pause=2000&color=7D6B95&random=false&width=550&lines=Hello+World!+My+name+is+Yunji+Choi%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <hr style="border:0px; height:1px; background: linear-gradient(to left, transparent, #904e95, transparent);">
@@ -16,9 +15,9 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 <h1 align="center">🎨 Front-end Developer 🎨</h1><br>
 
-<img align="right" src="./assets/coding.gif" height="350px" alt="pixel city image" style="margin-left: 25px">
-  
-<div style="margin-right: 25px">
+<img src="./assets/coding.gif" align="right" height="350px" alt="pixel city image" style="margin-left: 25px">
+
+<div>
 
 - 🎉 안녕하세요. <b>장인정신을 가진 개발자</b> 최윤지입니다😊 <br>
 
