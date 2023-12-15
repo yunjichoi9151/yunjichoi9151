@@ -1,6 +1,7 @@
-<img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
 <br align="center">
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:DE6161,100:2657EB&height=150&section=header)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=32&pause=2000&color=7D6B95&random=false&width=550&lines=Hello+World!+My+name+is+Yunji+Choi%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
@@ -13,8 +14,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 </div>
 <h1 align="center">🎨 Front-end Developer 🎨</h1><br>
-
-<img align="right" src="./assets/study.gif" height="350px" alt="pixel city image">
+<div style="display:flex">
+<div style="padding-right: 25px">
 
 - 🎉 안녕하세요. <b>장인정신을 가진 개발자</b> 최윤지입니다😊 <br>
 
@@ -29,7 +30,10 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 - 😍 <b>I Like</b> : Coding, Coffee, Piano, Music <br>
 
 - 👍🏻 <b>I'm good at</b> : PPT & Card News, Web Surfing <br><br>
-
+</div>
+<img src="./assets/coding.gif" height="350px" alt="pixel city image">
+</div>
+<br/>
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjichoi9151&count_bg=%23FF7239&title_bg=%23F74A06&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -55,7 +59,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode" alt="skills logos" />
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjichoi9151&theme=dracula&langs_count=10&card_width=540&layout=compact" alt="Most Used Languages"/>
 
 <br>
@@ -63,7 +67,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yunjichoi9151&theme=dracula&layout=compact" alt="WakaTime stats" width="540px"/>
 </a>
-
 
 <br>
 
