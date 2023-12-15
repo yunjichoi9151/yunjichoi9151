@@ -13,9 +13,12 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 <!--![yunjichoi9151's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjichoi9151&show_icons=true&theme=dracula)-->
 
 </div>
+
 <h1 align="center">🎨 Front-end Developer 🎨</h1><br>
-<div style="display:flex">
-<div style="padding-right: 25px">
+
+<img align="right" src="./assets/coding.gif" height="350px" alt="pixel city image" style="margin-left: 25px">
+  
+<div style="margin-right: 25px">
 
 - 🎉 안녕하세요. <b>장인정신을 가진 개발자</b> 최윤지입니다😊 <br>
 
@@ -30,10 +33,11 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 - 😍 <b>I Like</b> : Coding, Coffee, Piano, Music <br>
 
 - 👍🏻 <b>I'm good at</b> : PPT & Card News, Web Surfing <br><br>
+
 </div>
-<img src="./assets/coding.gif" height="350px" alt="pixel city image">
-</div>
+
 <br/>
+
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjichoi9151&count_bg=%23FF7239&title_bg=%23F74A06&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
