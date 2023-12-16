@@ -43,7 +43,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 </div>
 <br>
-<!-- <img src="https://profile-counter.glitch.me/yunjichoi9151/count.svg" /> -->
 
 <div align="center">
 
