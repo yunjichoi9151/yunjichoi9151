@@ -15,31 +15,36 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunjichoi1999)](https
 
 <h1 align="center">🎨 Front-end Developer 🎨</h1><br>
 
-<img src="./assets/coding.gif" align="right" height="350px" alt="pixel city image" style="margin-left: 25px">
 
 <div>
 
 - 🎉 안녕하세요. <b>장인정신을 가진 개발자</b> 최윤지입니다😊 <br>
 
-- 👩🏻‍💻 저는 <b>'사용자의 입장에서 생각하고, 개발하고, 개선하자'</b>라는<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 마음가짐으로 개발에 임합니다.<br>
+- 👩🏻‍💻 저는 <b>'사용자의 입장에서 생각하고, 개발하고, 개선하자'</b>라는 마음가짐으로 개발에 임합니다.<br>
 
-- 💪🏻 서비스를 여러 번 테스트하며 사소한 오류나 불편함을<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 개선하기 위해 노력합니다.<br>
+- 💪🏻 서비스를 여러 번 테스트하며 사소한 오류나 불편함을 개선하기 위해 노력합니다.<br>
 
-- 😆 언제나 더 나은 방향을 모색하고, 새로운 기술에도<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 즐거운 마음으로 도전합니다.<br>
+- 😆 언제나 더 나은 방향을 모색하고, 새로운 기술에도 즐거운 마음으로 도전합니다.<br>
 
-- 🎯 높은 재사용성을 가진 컴포넌트 설계와, 클린 코드 작성을<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 목표로 두고 있습니다.<br>
+- 🎯 높은 재사용성을 가진 컴포넌트 설계와, 클린 코드 작성을 목표로 두고 있습니다.<br>
 
 - 😍 <b>I Like</b> : Coding, Coffee, Piano, Music <br>
 
-- 👍🏻 <b>I'm good at</b> : PPT & Card News, Web Surfing <br><br>
+- 👍🏻 <b>I'm good at</b> : PPT & Card News, Web Surfing <br>
+
+<div align="center" style="width=100%">
+  <img src="./assets/coding.gif" height="350px" alt="pixel city image">
+  <br/>
+  <br/>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjichoi9151&count_bg=%23FF7239&title_bg=%23F74A06&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjichoi9151&count_bg=%23FF7239&title_bg=%23F74A06&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <br>
